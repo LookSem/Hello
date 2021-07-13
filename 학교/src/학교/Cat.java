@@ -7,6 +7,7 @@ public class Cat {
 	// »ı¼ºÀÚ
 	Cat() {
 		count++;
+		System.out.println("test");
 	}
 
 	Cat(String name, int age) {
